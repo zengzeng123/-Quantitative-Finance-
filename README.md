@@ -1,28 +1,5 @@
 # -Quantitative-Finance-
 
- 
-Lecturer: Sergey V. Gelman, Leonid Timoschuck Class teachers: Eugeny R. Nadorshin, Kirill Melkumiants, Sergey Vedernikov 
- 
-Course description 
- 
-The course provides coverage of important topics in modern Quantitative Finance and Risk Management at the advanced undergraduate level. It is intended for the 4th-year undergraduate students of the International College of Economics and Finance, High School of Economics, Moscow. Particular attention is given to the topics such as the Efficient Market Hypothesis, financial markets micro-structure and types of arbitrage, general principles of modelling the price dynamics of financial assets, market risk and other types of financial risks, Value-at-Risk (VaR) approach and applications, modelling of extreme market events, VaR analysis for financial derivatives using the Kolmogorov equations framework, foundations of the copula methods, modelling of periodic and quasi-periodic trends in time series in connection with technical analysis, and the foundations of high-frequency arbitrage trading. The topics covered in this course will enable the students to develop the theoretical knowledge and practical skills required for successful working with multiple types of risks in modern financial markets, both Russian and international. The course is taught in English. 
- 
-The prerequisites for the course are Elements of Econometrics and Microeconomics. Good command of methods of calculus, general probability theory and mathematical statistics are also required for the course. 
- 
-Teaching objectives The goal of this course is to give students insights in the functioning of financial markets, understanding of measuring and forecasting financial risks. This course is aimed at giving students instruments required in order to analyze issues in asset pricing and market finance. After the course students should be familiar with recent empirical findings based on financial econometric models, have a good command of basic econometric techniques and understand practical issues in the forecasting of key financial market variables 
- 
-Teaching methods 
- 
-The following methods and forms of study are used in the course: - lectures (2 hours per week); - practical classes, also in computer class (2 hours per week); - self-study in computer class (doing home assignments using Excel and Econometric views, work with economic data, appliances in Internet); - self-study with literature. 
- 
-Assessment and grade determination 
- 
-- test (90 minutes) - home assignements (at least one) - written exam (150 minutes) 
- 2
-Grade determination: 
- 
-First term grade is to 100% determined by the exam in December. The overall grade for the course is a weighted average of the first term grade (40%), home assignment grade average (10%) and the final exam (April) grade (50%). Exam (finals in December and April) grades can’t be less than satisfactory for a student to get a positive grade for the whole course. 
- 
 Main reading 
  
 1. Patton, A. (2007). Quantitative Finance, UoL Study Guide. (AP) 2. Christoffersen, P.F. Elements of Financial Risk Management. (Academic Press, London, 2003).(PC) 3. Diebold, F.X. Elements of Forecasting. (Thomson South-Western, Canada, 2006) fourth edition. (FD) 4. Wilmott, P. Paul Wilmott on Quantitative Finance (selected chapters). 2nd ed. Wiley,       2006.  5. McNeil, A. J. et al, Quantitative Risk Management. Princeton University Press, 2005.  
@@ -67,7 +44,4 @@ WE, Chapter 5
 8. Modelling high frequency financial data Traditionally, empirical studies in  finance employed data at the daily and monthly frequencies. Many models and methods have been developed for the study of such data. Recently, high frequency (intra-day) has become available to researchers, and empirical market microstructure is now an established sub-field within  finance. Many of the methods developed for lower frequency data are applicable to high frequency data, but there are a few places where differences exist, and we will study two of these in this topic. How one treats the massive amounts of high frequency data available should depend on the problem the researcher wishes to 
  4
 address. In many cases, the question can be addressed by aggregating the  tick  data up to a certain frequency and then analyze the sequence of aggregated returns. Doing so makes the data evenly spaced, and thus more similar to well-studied low frequency data. Many questions, however, are best addressed using tick data, meaning that we must  find ways of dealing with the irregularly-spaced observations. Another problem that arises in certain analyses of high frequency data is seasonality. Seasonality is a well-studied problem in macro- and micro-econometrics, but is not generally a concern for  financial econometricians. Intra-daily patterns (called ‘diurnality’ rather than ‘seasonality’ ) in certain measures are significant and must be dealt with. Three places where diurnality in high frequency returns has been found to be prominent are in the conditional variance, in bid-ask spreads and in trade durations.  
-
- 
-
  
