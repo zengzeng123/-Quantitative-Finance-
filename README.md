@@ -1,7 +1,5 @@
 # -Quantitative-Finance-
-Syllabus 
- 
-for Quantitative Finance 
+
  
 Lecturer: Sergey V. Gelman, Leonid Timoschuck Class teachers: Eugeny R. Nadorshin, Kirill Melkumiants, Sergey Vedernikov 
  
@@ -69,13 +67,7 @@ WE, Chapter 5
 8. Modelling high frequency financial data Traditionally, empirical studies in  finance employed data at the daily and monthly frequencies. Many models and methods have been developed for the study of such data. Recently, high frequency (intra-day) has become available to researchers, and empirical market microstructure is now an established sub-field within  finance. Many of the methods developed for lower frequency data are applicable to high frequency data, but there are a few places where differences exist, and we will study two of these in this topic. How one treats the massive amounts of high frequency data available should depend on the problem the researcher wishes to 
  4
 address. In many cases, the question can be addressed by aggregating the  tick  data up to a certain frequency and then analyze the sequence of aggregated returns. Doing so makes the data evenly spaced, and thus more similar to well-studied low frequency data. Many questions, however, are best addressed using tick data, meaning that we must  find ways of dealing with the irregularly-spaced observations. Another problem that arises in certain analyses of high frequency data is seasonality. Seasonality is a well-studied problem in macro- and micro-econometrics, but is not generally a concern for  financial econometricians. Intra-daily patterns (called ‘diurnality’ rather than ‘seasonality’ ) in certain measures are significant and must be dealt with. Three places where diurnality in high frequency returns has been found to be prominent are in the conditional variance, in bid-ask spreads and in trade durations.  
+
  
-Distribution of hours 
- 
- 
- 
- 
-No Topics 
-Total  (hours) 
-Class (hours) Selfstudy Lectu- res Seminars 1 Basic Time Series Concepts 36  6  6  24  2 Modelling asset return volatility: introduction  32  4  4  24  3 Modelling asset return volatility: extensions 40  8  8  24  4 Evaluating forecasts of risks and returns 36  6  6  24  5 The efficient market hypothesis and market predictability 36  6  6  24  6 Risk management and Value-at-Risk: models 37  6  7  24  7 Risk management and Value-at-Risk: backtesting 35  4  7  24  8 Modelling high frequency financial data 36  8  4  24  Total: 288  48  48  192 
+
  
