@@ -2,12 +2,20 @@
 
 Main reading 
  
-1. Patton, A. (2007). Quantitative Finance, UoL Study Guide. (AP) 2. Christoffersen, P.F. Elements of Financial Risk Management. (Academic Press, London, 2003).(PC) 3. Diebold, F.X. Elements of Forecasting. (Thomson South-Western, Canada, 2006) fourth edition. (FD) 4. Wilmott, P. Paul Wilmott on Quantitative Finance (selected chapters). 2nd ed. Wiley,       2006.  5. McNeil, A. J. et al, Quantitative Risk Management. Princeton University Press, 2005.  
+1. Patton, A. (2007). Quantitative Finance, UoL Study Guide. (AP) 
+2. Christoffersen, P.F. Elements of Financial Risk Management. (Academic Press, London, 2003).(PC) 
+3. Diebold, F.X. Elements of Forecasting. (Thomson South-Western, Canada, 2006) fourth edition. (FD) 
+4. Wilmott, P. Paul Wilmott on Quantitative Finance (selected chapters). 2nd ed. Wiley,       2006.  
+5. McNeil, A. J. et al, Quantitative Risk Management. Princeton University Press, 2005.  
  
  
 Additional reading 
  
-1. Enders W. Applied Econometric Time Series. 2nd ed., John Wiley & Sons, Inc., 2004 (WE) 2. Ruey S. Tsay (2002). Analysis of Financial Time Series. 3. Brooks (2002). Introductory econometrics for finance, Cambridge University Press. 4. Franke/ Haerdle/ Hafner (2004). Statistics of Financial Markets, Springer. 5. Hamilton, J. (1994), Time Series Analysis, Princeton University Press, Princeton 
+1. Enders W. Applied Econometric Time Series. 2nd ed., John Wiley & Sons, Inc., 2004 (WE) 
+2. Ruey S. Tsay (2002). Analysis of Financial Time Series. 
+3. Brooks (2002). Introductory econometrics for finance, Cambridge University Press. 
+4. Franke/ Haerdle/ Hafner (2004). Statistics of Financial Markets, Springer. 
+5. Hamilton, J. (1994), Time Series Analysis, Princeton University Press, Princeton 
  
 Course outline 
  
@@ -19,9 +27,7 @@ WE, Chapter 1-2; AP, Ch. 2; FD, Ch. 7-8
  
 WE, Chapter 3; AP, Ch. 4; CP, Ch. 2 
  
-3. Modelling asset return volatility: extensions In this chapter we discuss extensions of the basic ARCH/GARCH class of models, both univariate and multivariate. Univariate extensions have been proposed to capture more detailed 
- 3
-features of asset return volatility, such as the so-called .leverage effect.. Multivariate extensions of the GARCH model are used to assist with financial decisions that involve more than one risky asset, such as portfolio decisions or risk management. 
+3. Modelling asset return volatility: extensions In this chapter we discuss extensions of the basic ARCH/GARCH class of models, both univariate and multivariate. Univariate extensions have been proposed to capture more detailed features of asset return volatility, such as the so-called .leverage effect.. Multivariate extensions of the GARCH model are used to assist with financial decisions that involve more than one risky asset, such as portfolio decisions or risk management. 
  
 AP, Ch. 5, CP Ch. 2-3; WE, Chapter 3 
  
@@ -29,7 +35,6 @@ AP, Ch. 5, CP Ch. 2-3; WE, Chapter 3
  
 AP, Ch. 6; WE, Chapter 2, FD Ch. 12, CP 2, particularly 2.6 
  
- – Semester break –  
  
 5. The efficient market hypothesis and market predictability  Much of modern quantitative finance relates to methods and models for predicting aspects of asset returns, and yet the classical theory of efficient markets may appear to suggest that asset returns should be completely unpredictable. In this topic we relate the concept of efficient markets, defined in various ways, to the evidence of predictability of financial variables and reconcile the empirical evidence for asset return predictability with the concept of an efficient market. 
  
@@ -42,6 +47,5 @@ WE, Chapter 5
 7. Risk management and Value-at-Risk: backtesting An important part of managing risk is testing how well your risk models are performing, a task known in the risk management literature as backtesting. Such tests can also be useful for indicating ways to improve risk models. This topic will cover some methods for backtesting VaR models. 
  
 8. Modelling high frequency financial data Traditionally, empirical studies in  finance employed data at the daily and monthly frequencies. Many models and methods have been developed for the study of such data. Recently, high frequency (intra-day) has become available to researchers, and empirical market microstructure is now an established sub-field within  finance. Many of the methods developed for lower frequency data are applicable to high frequency data, but there are a few places where differences exist, and we will study two of these in this topic. How one treats the massive amounts of high frequency data available should depend on the problem the researcher wishes to 
- 4
 address. In many cases, the question can be addressed by aggregating the  tick  data up to a certain frequency and then analyze the sequence of aggregated returns. Doing so makes the data evenly spaced, and thus more similar to well-studied low frequency data. Many questions, however, are best addressed using tick data, meaning that we must  find ways of dealing with the irregularly-spaced observations. Another problem that arises in certain analyses of high frequency data is seasonality. Seasonality is a well-studied problem in macro- and micro-econometrics, but is not generally a concern for  financial econometricians. Intra-daily patterns (called ‘diurnality’ rather than ‘seasonality’ ) in certain measures are significant and must be dealt with. Three places where diurnality in high frequency returns has been found to be prominent are in the conditional variance, in bid-ask spreads and in trade durations.  
  
